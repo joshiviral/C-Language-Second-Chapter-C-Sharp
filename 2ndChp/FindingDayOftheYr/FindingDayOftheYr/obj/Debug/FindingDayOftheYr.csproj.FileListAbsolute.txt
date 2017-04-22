@@ -1,0 +1,6 @@
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\bin\Debug\FindingDayOftheYr.exe.config
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\bin\Debug\FindingDayOftheYr.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\bin\Debug\FindingDayOftheYr.pdb
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\obj\Debug\FindingDayOftheYr.csprojResolveAssemblyReference.cache
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\obj\Debug\FindingDayOftheYr.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\2ndChp\FindingDayOftheYr\FindingDayOftheYr\obj\Debug\FindingDayOftheYr.pdb
